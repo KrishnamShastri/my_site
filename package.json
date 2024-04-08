@@ -1,7 +1,7 @@
 {
   "name": "my_site",
   "version": "1.0.0",
-  "description": "This is a basic site made while learning ruby which just shows hwllo world on its index page",
+  "description": "hello worl basic site",
   "main": "index.js",
   "directories": {
     "lib": "lib",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/KrishnamShastri/my_site.git"
+    "url": "git+https://github.com/KrishnamShastri/my_site.git"
   },
   "author": "Krishnam Shastri",
   "license": "ISC",
